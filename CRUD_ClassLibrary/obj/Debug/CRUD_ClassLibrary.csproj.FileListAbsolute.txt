@@ -1,0 +1,8 @@
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\bin\Debug\CRUD_ClassLibrary.dll
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\bin\Debug\CRUD_ClassLibrary.pdb
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\obj\Debug\CRUD_ClassLibrary.GlobalResource.MessageResource.resources
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\obj\Debug\CRUD_ClassLibrary.GlobalResource.StringResource.resources
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\obj\Debug\CRUD_ClassLibrary.csproj.GenerateResource.Cache
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\obj\Debug\CRUD_ClassLibrary.dll
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\obj\Debug\CRUD_ClassLibrary.pdb
+D:\Valence\CRUD_Solution\CRUD_ClassLibrary\obj\Debug\CRUD_ClassLibrary.csprojResolveAssemblyReference.cache

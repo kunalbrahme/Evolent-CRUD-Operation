@@ -1,0 +1,7 @@
+D:\Valence\CRUD_Solution\CRUD_DAL\bin\Debug\CRUD_DAL.dll
+D:\Valence\CRUD_Solution\CRUD_DAL\bin\Debug\CRUD_DAL.pdb
+D:\Valence\CRUD_Solution\CRUD_DAL\bin\Debug\CRUD_ClassLibrary.dll
+D:\Valence\CRUD_Solution\CRUD_DAL\bin\Debug\CRUD_ClassLibrary.pdb
+D:\Valence\CRUD_Solution\CRUD_DAL\obj\Debug\CRUD_DAL.csprojResolveAssemblyReference.cache
+D:\Valence\CRUD_Solution\CRUD_DAL\obj\Debug\CRUD_DAL.dll
+D:\Valence\CRUD_Solution\CRUD_DAL\obj\Debug\CRUD_DAL.pdb
